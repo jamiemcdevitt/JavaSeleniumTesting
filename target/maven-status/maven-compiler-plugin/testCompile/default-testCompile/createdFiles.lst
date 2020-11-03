@@ -1,0 +1,8 @@
+Tests\TestBase.class
+pages\MyAccount.class
+pages\LoginPage.class
+pages\BasePageNavigator.class
+extensions\byExtensions.class
+pages\LandingPage.class
+pages\IWebTest.class
+Tests\SmokeTest.class
